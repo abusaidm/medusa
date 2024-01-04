@@ -1,5 +1,11 @@
 # Change Log
 
+## 6.0.7
+
+### Patch Changes
+
+- [#5991](https://github.com/medusajs/medusa/pull/5991) [`7f62ab1b5`](https://github.com/medusajs/medusa/commit/7f62ab1b583f8ea39cc2aad169d98a5c514f40b1) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(medusa, medusa-payment-stripe): fix stripe error handling
+
 ## 6.0.6
 
 ### Patch Changes
